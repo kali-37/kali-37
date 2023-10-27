@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subash1237&show_icons=true&locale=en&layout=compact" alt="subash1237" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subash1237&show_icons=true&locale=en" alt="subash1237" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subash1237&" alt="subash1237" /></p>
