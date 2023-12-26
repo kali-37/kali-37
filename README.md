@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subash1237&label=Profile%20views&color=0e75b6&style=flat" alt="subash1237" /> </p>
 
-- 🔭 Currently working on **frameworks, pentesting, and enhancing my knowledge.**
+- 🔭 Currently working on **frameworks, and enhancing my knowledge.**
 
-- 💬 Ask me about **Linux,Python,django,Web_Hacking,Assembly**
+- 💬 Ask me about **Python,Linux,django,Assembly**
 
 - 📫 How to reach me **rimalsubash77@gmail.com**
 
