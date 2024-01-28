@@ -17,7 +17,7 @@ def main():
     t.gen_text("", 1, count=20)
     t.toggle_show_cursor(False)
     t.gen_text("GIF_OS Modular BIOS v1.0.11", 1)
-    t.gen_text("Copyright (C) 2023, \x1b[31mkali-37 Softwares Inc.\x1b[0m", 2)
+    t.gen_text("Copyright (C) 2023, \x1b[31mX0rzAvi Softwares Inc.\x1b[0m", 2)
     t.gen_text("\x1b[94mGitHub Profile ReadMe Terminal, Rev 1011\x1b[0m", 4)
     t.gen_text("Krypton(tm) GIFCPU - 250Hz", 6)
     t.gen_text(
@@ -59,7 +59,7 @@ def main():
     t.gen_text("\x1b[93mGIF OS v1.0.11 (tty1)\x1b[0m", 1, count=5)
     t.gen_text("login: ", 3, count=5)
     t.toggle_show_cursor(True)
-    t.gen_typing_text("kali-37", 3, contin=True)
+    t.gen_typing_text("x0rzavi", 3, contin=True)
     t.gen_text("", 4, count=5)
     t.toggle_show_cursor(False)
     t.gen_text("password: ", 4, count=5)
@@ -79,12 +79,12 @@ def main():
     t.gen_text("\x1b[92mclear\x1b[0m", 7, count=3, contin=True)
 
     ignore_repos = ["archiso-zfs", "archiso-zfs-archive"]
-    git_user_details = gifos.utils.fetch_github_stats("kali-37", ignore_repos)
+    git_user_details = gifos.utils.fetch_github_stats("x0rzavi", ignore_repos)
     user_age = gifos.utils.calc_age(26, 7, 2002)
     t.clear_frame()
     top_languages = [lang[0] for lang in git_user_details.languages_sorted]
     user_details_lines = f"""
-    \x1b[30;101mkali-37@GitHub\x1b[0m
+    \x1b[30;101mx0rzavi@GitHub\x1b[0m
     --------------
     \x1b[96mOS:     \x1b[93mArch/Gentoo Linux, Windows 11, Android 13\x1b[0m
     \x1b[96mHost:   \x1b[93mNetaji Subhash Engineering College \x1b[94m#NSEC\x1b[0m
@@ -94,8 +94,8 @@ def main():
     
     \x1b[30;101mContact:\x1b[0m
     --------------
-    \x1b[96mEmail:      \x1b[93mkali-37@gmail.com\x1b[0m
-    \x1b[96mLinkedIn:   \x1b[93mavishek-sen-kali-37\x1b[0m
+    \x1b[96mEmail:      \x1b[93mx0rzavi@gmail.com\x1b[0m
+    \x1b[96mLinkedIn:   \x1b[93mavishek-sen-x0rzavi\x1b[0m
     
     \x1b[30;101mGitHub Stats:\x1b[0m
     --------------
@@ -114,7 +114,7 @@ def main():
     t.gen_typing_text("\x1b[91mfetch.s", 1, contin=True)
     t.delete_row(1, prompt_col)
     t.gen_text("\x1b[92mfetch.sh\x1b[0m", 1, contin=True)
-    t.gen_typing_text(" -u kali-37", 1, contin=True)
+    t.gen_typing_text(" -u x0rzavi", 1, contin=True)
 
     t.set_font(FONT_FILE_MONA, 16, 0)
     t.toggle_show_cursor(False)
@@ -146,7 +146,7 @@ def main():
 
     t.set_font(FONT_FILE_BITMAP)
     t.toggle_show_cursor(True)
-    # t.pasteImage("./temp/kali-37.jpg", 3, 5, sizeMulti=0.5)
+    # t.pasteImage("./temp/x0rzavi.jpg", 3, 5, sizeMulti=0.5)
     t.gen_text(user_details_lines, 2, 35, count=5, contin=True)
     t.gen_prompt(t.curr_row)
     t.gen_typing_text(
@@ -166,7 +166,7 @@ def main():
     <img alt="GIFOS" src="{image.url}">
 </picture>
 
-<sub><i>Generated automatically using [kali-37/github-readme-terminal](https://github.com/kali-37/github-readme-terminal) on {time_now}</i></sub>
+<sub><i>Generated automatically using [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) on {time_now}</i></sub>
 
 <details>
 <summary>More details</summary>
