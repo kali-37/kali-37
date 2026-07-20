@@ -1,16 +1,25 @@
-<pre style="background:#0a0806;color:#e8dcc8;padding:.6rem 1rem;border:1px solid #2a2118;border-radius:4px;font-size:14px;line-height:1.6;max-width:720px;margin:.8rem auto;">
-<span style="color:#9ece6a;font-weight:700;">kali_37@github:~$</span> whoami
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kali-37&label=views&color=ffb454&style=flat" alt="profile views"/>
+</p>
 
-<b style="color:#ffb454;">Backend &amp; Automation Engineer</b> — Pokhara, Nepal.
-3+ years building production automation pipelines, REST APIs and
-full-stack systems in <b style="color:#ffb454;">Python</b> (FastAPI, Django). I take the automation
-jobs where off-the-shelf tools fail: anti-bot bypass, concurrent
-scraping at scale, pipelines that delete entire manual workflows.
+<h1 align="center" style="color:#ffb454;font-family:monospace;">Hi 👋, I'm Subash Rimal</h1>
+<h3 align="center" style="color:#8a6a3b;font-family:monospace;font-weight:400;">Securely coding my way through the digital landscape.</h3>
 
-<span style="color:#9ece6a;font-weight:700;">kali_37@github:~$</span> <span style="color:#6cb6ff;">cat skills.toml</span>
+<br>
+
+<pre style="background:#0a0806;color:#e8dcc8;padding:.6rem 1rem;border:1px solid #2a2118;border-radius:4px;font-size:14px;line-height:1.6;max-width:680px;margin:.8rem auto;">
+- 🔭 Currently working on <b style="color:#ffb454;">frameworks, and enhancing my knowledge.</b>
+
+- 💬 Ask me about <b style="color:#ffb454;">Python, Linux, Assembly</b>
+
+- 📫 How to reach me <b style="color:#ffb454;">rimalsubash77@gmail.com</b>
 </pre>
 
 <br>
+
+<pre style="background:#0a0806;color:#e8dcc8;padding:.6rem 1rem;border:1px solid #2a2118;border-radius:4px;font-size:14px;max-width:720px;margin:.8rem auto;">
+<span style="color:#9ece6a;font-weight:700;">kali_37@github:~$</span> <span style="color:#6cb6ff;">cat skills.toml</span>
+</pre>
 
 <table align="center" style="background:#0a0806;border:1px solid #2a2118;border-radius:4px;border-collapse:separate;border-spacing:0;overflow:hidden;max-width:720px;width:100%;font-family:monospace;font-size:13.5px;">
   <tr>
@@ -53,6 +62,8 @@ scraping at scale, pipelines that delete entire manual workflows.
   </tr>
 </table>
 
+<br>
+
 <pre style="background:#0a0806;color:#e8dcc8;padding:.6rem 1rem;border:1px solid #2a2118;border-radius:4px;font-size:14px;max-width:720px;margin:.8rem auto;">
 <span style="color:#9ece6a;font-weight:700;">kali_37@github:~$</span> <span style="color:#6cb6ff;">cat socials.toml</span>
 </pre>
@@ -63,6 +74,5 @@ scraping at scale, pipelines that delete entire manual workflows.
 </p>
 
 <p align="center" style="font-family:monospace;font-size:13px;color:#6f6353;">
-  <img src="https://komarev.com/ghpvc/?username=kali-37&label=views&color=ffb454&style=flat" alt="profile views"/>
-  &nbsp;·&nbsp; <b style="color:#9ece6a;">open to backend / automation work</b>
+  <b style="color:#9ece6a;">open to backend / automation work</b>
 </p>
