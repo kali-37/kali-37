@@ -1,25 +1,3 @@
-<p align="center">
-<pre style="background:#0a0806;color:#ffb454;font-weight:700;padding:1rem 0;border:1px solid #2a2118;border-radius:4px;line-height:1.2;font-size:clamp(8px,1.5vw,14px);text-shadow:0 0 8px rgba(255,180,84,.35);">
-███████╗██╗   ██╗██████╗  █████╗ ███████╗██╗  ██╗
-██╔════╝██║   ██║██╔══██╗██╔══██╗██╔════╝██║  ██║
-███████╗██║   ██║██████╔╝███████║███████╗███████║
-╚════██║██║   ██║██╔══██╗██╔══██║╚════██║██╔══██║
-███████║╚██████╔╝██████╔╝██║  ██║███████║██║  ██║
-╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-</pre>
-</p>
-
-<p align="center">
-<pre style="background:#0a0806;color:#8a6a3b;margin-top:-1rem;padding:0;border:none;line-height:1.2;font-size:clamp(7px,1.3vw,12px);">
-██████╗ ██╗███╗   ███╗ █████╗ ██╗
-██╔══██╗██║████╗ ████║██╔══██╗██║
-██████╔╝██║██╔████╔██║███████║██║
-██╔══██╗██║██║╚██╔╝██║██╔══██║██║
-██║  ██║██║██║ ╚═╝ ██║██║  ██║███████╗
-╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
-</pre>
-</p>
-
 <pre style="background:#0a0806;color:#e8dcc8;padding:.6rem 1rem;border:1px solid #2a2118;border-radius:4px;font-size:14px;line-height:1.6;max-width:720px;margin:.8rem auto;">
 <span style="color:#9ece6a;font-weight:700;">kali_37@github:~$</span> whoami
 
@@ -75,23 +53,12 @@ scraping at scale, pipelines that delete entire manual workflows.
   </tr>
 </table>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kali-37&show_icons=true&count_private=true&hide_title=true&bg_color=0a0806&text_color=e8dcc8&title_color=ffb454&icon_color=ffb454&border_color=2a2118&ring_color=ffb454" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kali-37&layout=compact&bg_color=0a0806&text_color=e8dcc8&title_color=ffb454&border_color=2a2118&hide_title=true" height="150" alt="Top Languages"/>
-</p>
-
-<br>
-
 <pre style="background:#0a0806;color:#e8dcc8;padding:.6rem 1rem;border:1px solid #2a2118;border-radius:4px;font-size:14px;max-width:720px;margin:.8rem auto;">
 <span style="color:#9ece6a;font-weight:700;">kali_37@github:~$</span> <span style="color:#6cb6ff;">cat socials.toml</span>
 </pre>
 
 <p align="center" style="margin:1rem 0;">
   <a href="https://www.linkedin.com/in/kali37/" target="_blank"><img align="center" src="socials/linkedin.svg" alt="linkedin" height="30" width="40"/></a>
-  <a href="https://www.facebook.com/subash.reemal/" target="_blank"><img align="center" src="socials/facebook.svg" alt="facebook" height="30" width="40"/></a>
-  <a href="https://github.com/kali-37" target="_blank"><img align="center" src="socials/github.svg" alt="github" height="30" width="40"/></a>
   <a href="https://subashrimal.com.np" target="_blank"><img align="center" src="socials/globe.svg" alt="website" height="30" width="40"/></a>
 </p>
 
