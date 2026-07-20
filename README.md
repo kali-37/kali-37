@@ -60,6 +60,10 @@
 
 <br>
 
+<pre style="background:#0a0806;color:#e8dcc8;padding:.6rem 1rem;border:1px solid #2a2118;border-radius:4px;font-size:14px;max-width:720px;margin:.8rem auto;">
+<span style="color:#9ece6a;font-weight:700;">kali_37@github:~$</span> <span style="color:#6cb6ff;">cat socials.toml</span>
+</pre>
+
 <p align="center" style="margin:1rem 0;">
   <a href="https://www.linkedin.com/in/kali37/" target="_blank"><img align="center" src="socials/linkedin.svg" alt="linkedin" height="30" width="40"/></a>
   <a href="https://subashrimal.com.np" target="_blank"><img align="center" src="socials/globe.svg" alt="website" height="30" width="40"/></a>
