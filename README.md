@@ -17,6 +17,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+    <a href="https://subashrimal.com.np" target="blank"><img align="center" src="socials/globe.svg" alt="website" height="30" width="40"/></a>
   <a href="https://www.linkedin.com/in/kali37/" target="blank"><img align="center" src="socials/linkedin.svg" alt="linkedin" height="30" width="40"/></a>
-  <a href="https://subashrimal.com.np" target="blank"><img align="center" src="socials/globe.svg" alt="website" height="30" width="40"/></a>
+
 </p>
